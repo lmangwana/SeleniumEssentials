@@ -1,4 +1,4 @@
-# Selenium Essentials Portfolio 🚀
+# Selenium Essentials Reference Documentation 🚀
 
 This repository is a structured documentation and experimentation space for the Selenium WebDriver libraries. It includes practical examples, documentation references, and test cases structured around real-world scenarios — all implemented using Java, TestNG, and Maven.
 
